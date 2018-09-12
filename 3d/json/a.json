@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "liuboyuan",
+      "head":"./images/liuboyuan.png",
+      "tasks": [
+        {"lesson":"1",
+          "png": "http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/d3f4870d-ea76-439d-ad6d-d7402de7feae.png",
+          "swf":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/f8eb87cc-712f-46f2-bec1-9485c7c64a6c.swf",
+          "mp4":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/ca05f8ae-ccff-42a5-af1b-197fe232bd5c.mp4",
+          "explain":"这是我为小法师做的反弹小球的游戏，这样，小乌龟们就能逃出山洞了，快来试试吧...."
+
+        },
+        {"lesson":"2",
+          "png": "http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/5a1291ee-0f25-4d01-947a-c9c8d51d650a.png",
+          "swf":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/aad2f147-f3b4-4ae5-93e2-e0a6b7724ec2.swf",
+          "mp4":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/29e1f64e-6d58-470c-bcb4-206d4c04ed95.mp4",
+          "explain":"我知道无人机是怎么飞行的，你知道吗？"
+        },
+        {"lesson":"3",
+          "png": "http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/0fb297b0-69d3-4a33-a368-cc0b7bf88c1a.png",
+          "swf":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/0ce0e155-6bd6-4a63-8d0b-d2b633aec3f3.swf",
+          "mp4":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/76ed34be-d421-4b78-8177-ef7e4adb1209.mp4",
+          "explain":"我会编写变魔术的程序了，你会吗？"
+
+        },
+        {"lesson":"4",
+          "png": "http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/4be3d2c8-d05a-41c9-9227-cd6dbf918e11.png",
+          "swf":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/dcace6de-5850-403f-9fe4-91aff4d6c328.swf",
+          "mp4":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/38f6e0b5-9532-4dc6-bc2c-2b7188493a29.mp4",
+          "explain":"这一节，我学会了语音识别的原理，你学会了吗？"
+
+        },
+        {"lesson":"5",
+          "png": "http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/01c9110d-11cf-48a3-b21b-a02774fb96d7.png",
+          "swf":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/9b0b8d92-1f05-4351-995f-526665b999a3.swf",
+          "mp4":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/9d2feb84-8024-44ab-ad6d-ad3d86dacc97.mp4",
+          "explain":"这一节，我认识了网页的制作，就是现在你正在看的这个冒险日志。还学会了一个躲避冰雹的小游戏，虽然我的是螃蟹躲西瓜..哈哈.快来试试吧"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "zhangzhichen",
+      "head":"./images/zhangzhichen.png",
+      "tasks": [
+        {"lesson":"1",
+          "png": "http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/8997f0de-a5f2-4b06-bcda-2315b17f4d97.png",
+          "swf":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/f8eb87cc-712f-46f2-bec1-9485c7c64a6c.swf",
+          "mp4":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/76ca9128-39d9-4af4-9077-ccc182c28445.mp4",
+          "explain":"这就是我做的反弹小球的游戏，快来试试吧..."
+
+        },
+        {"lesson":"2",
+          "png": "http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/2ec3ab15-ba6f-4a84-b0f3-b9efc36c6794.png",
+          "swf":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/aad2f147-f3b4-4ae5-93e2-e0a6b7724ec2.swf",
+          "mp4":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/996efc9b-5457-4b02-92e0-6b056b2b1a30.mp4",
+          "explain":"我会做无人机，还会设计数学题关卡，你能过关吗？"
+        },
+        {"lesson":"3",
+          "png": "http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/a13c5a5d-3842-4312-bf91-04cb3282ab9a.png",
+          "swf":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/0ce0e155-6bd6-4a63-8d0b-d2b633aec3f3.swf",
+          "mp4":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/8fb38a08-635f-41dc-b6eb-ef953728848c.mp4",
+          "explain":"再看我，就把你变成恐龙？"
+        },
+        {"lesson":"4",
+          "png": "http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/35359814-6979-4205-b97d-cbcf77b101e2.png",
+          "swf":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/dcace6de-5850-403f-9fe4-91aff4d6c328.swf",
+          "mp4":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/a6f0206b-76be-4288-b10a-f70ffa4ee375.mp4",
+          "explain":"这一节，我学会了语音识别的原理呼叫毛毛的表哥."
+
+        },
+        {"lesson":"5",
+          "png": "http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/42aeb5cd-f8ca-4f17-9c19-b4617e4e6587.png",
+          "swf":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/9b0b8d92-1f05-4351-995f-526665b999a3.swf",
+          "mp4":"http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/c8cae590-9724-4f4e-a15b-f17d4b9c5a61.mp4",
+          "explain":"这一节，我学了网页制作，也就是你现在看到的冒险日志，还会躲冰雹，哦不，我的是躲足球"
+        }
+      ]
+    }
+  ],
+  "introduce":[
+  {
+    "l": "在美丽的比德莱岛，有一天，一群小朋友在郊外愉快的玩耍，突然，一艘飞船由远及近飞到孩子们上空，飞船上闪出一道白光，孩子们被巨大的吸引力吸到了飞船上面，然后昏了过去，当孩子们醒来的时候，发现自己困在陌生的房间，门口站着一个奇怪的法师，而且小朋友们发现自己变成了一个小乌龟，他们很迷惑 ，问怪法师这是怎么回事，怪法师说，这是开普勒星，你们被暗夜骑士抓回来，他们施加魔法让你们变成小乌龟，然后就会收集你们的灵力，小乌龟问，我们怎么才能离开这里呢。怪法师说，我有能力放你们走，但是我自己在这儿太无聊了，你们能用魔法电脑给我设计一个反弹小球的游戏打发时间吗？"
+  },
+  {
+    "l":"小乌龟们编写出了反弹小球的游戏，怪巫师打开了大门，小乌龟来到了外面，看到一只小猫一次又一次的爬上大石头然后跳下来，小乌龟问你在干嘛啊？小猫说，我在学习飞行呢，小乌龟说，猫是不能飞的，小猫说，我一定要学会飞行去遥远的沃伦大陆去找一只叫blue的猫，她就会飞行，我跟他一起长大，他的父母是魔法师，但是他们还没有教会我飞行魔法就搬去了沃伦大陆，我一定要去找到blue，你们是干嘛的，怎么会在这里，然后小乌龟就把自己的经历跟小猫说了说，小猫说，那你们要去找到飞船才能离开这个星球，但是飞船的港口我也不清楚，很抱歉。小乌龟说没关系，你可以试试借助无人机飞行……"
+  },
+  {
+    "l":"小乌龟们告别了小猫，继续往前走，来到一个集镇，看到一群人在围着一个魔术师样子的人，说着魔法师是骗子，要把魔法师送到警察局，魔法师说我才不是骗子呢，我是这个星球上最伟大的魔法师，这个世界上，我可以让任何事物改变，就算暗夜骑士，我的魔法棒不知道怎么回事失去魔法了，我可是这个星球上信息最灵通的人，谁要是能配合我完成今天的表演，谁就是我的朋友，我也会尽自己所能的帮他，小乌龟们上前去说，没准，我可以用我的魔法电脑试一试，帮你写一个变魔术的程序"
+  },
+  {
+    "l":"小乌龟们协助魔术师完成了魔术，魔术师说，非常感谢你们，你们这是要去哪里啊？小乌龟说，我们要找到有飞船的港口，然后坐飞船飞回地球，魔术师说我不知道港口在哪儿，但是，你们可以去找毛毛，他知道港口在哪里，他住在黑森林里，小乌龟来到黑森林，在黑森林中迷路了，但是最后还是找到了毛毛，毛毛是一个失落的灵魂，最大的愿望就是与远在另外一个星球的哥哥取得联系，说明来意，毛毛说除非你们能帮我联系上我哥哥，小乌龟们说或许我们可以试试使用语音识别电话，然后他们使用语音识别电话联系到了了毛毛的哥哥，毛毛的哥哥驾驶飞船把毛毛接走了"
+  },
+  {
+    "l":"毛回家后不久，小乌龟们收到毛毛发来的消息，让他们去吉布港，吉布港可以找到飞回地球的飞船。毛毛说小乌龟们在进行奇特的冒险，你们可以把你们的经历写到冒险日志里去发到网上，这样我就能知道你们的冒险了，于是小乌龟们就把自己的经历放到了网上，就是我们现在看到的。然后他们在坐船过海的时候遇到了大风和冰雹，现在让我们编写一个躲避冰雹的游戏吧...."
+  }
+]
+
+
+}

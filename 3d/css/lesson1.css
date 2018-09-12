@@ -1,0 +1,31 @@
+.content1{
+    display: block;
+}
+.content2{
+    display: none;
+}
+.self{
+    margin-top: 35px;
+}
+.introduce{
+    line-height: 20px;
+    font-size: 1.5rem;
+}
+.summary{
+    color: #000;
+    font-size: 2rem;
+    margin: 15px;
+}
+@media screen and (max-width: 780px) {
+
+   .content1{
+       display: none;
+   }
+    .content2{
+        display: block;
+    }
+    .one{
+        display: none;
+    }
+
+}

@@ -1,0 +1,66 @@
+body{
+    background: #fafafa;
+    font-size: 62.5%;
+    margin: 0 auto;
+}
+.header{
+    height: 100px;
+    width: 100%;
+    /*background: white;*/
+}
+.head{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    /*background-image:url("images/tortoise.png");*/
+    background: #0accff;
+    margin-left: 26px;
+}
+.audio{
+    margin-top: 23px;
+    float: right;
+}
+.headphoto{
+    width: 100px;
+    height:80px;
+    margin-top: 10px;
+}
+.box1{
+    height: 20px;
+}
+.box2{
+    height: 30px;
+}
+.image1{
+    width: 360px;
+    height: 300px;
+}
+.imgClass{
+    margin-top: 20px;
+}
+.swf{
+    float: left;
+}
+.video{
+    display: none;
+}
+.game{
+    width: 588px;
+    height: 458px;
+}
+.explain{
+    font-size: 2rem;
+    line-height: 2.5rem;
+    color: red;
+}
+@media screen and (max-width: 780px){
+.swf{
+    display: none;
+}
+    .video{
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+}
